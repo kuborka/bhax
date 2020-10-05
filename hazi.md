@@ -20,7 +20,7 @@ A hallgató a kurzus elvégzése során megismerkedik a mugliklapfogalmaival, ar
 3. attitűd<br>
     - Nyitott a muglikkal kapcsolatios szakmai, nemzetiségi fejlődés megismerésére és befogadására. Fontosnak tartja a szakmai eredmények közvetítését szakmai és nem szakmai körök számára. Törekszik a folyamatos szim- és empátiára. <br>
 4. autonómia<br>
-    - Felelősséget vállal a mugli nép felemelésére. Törekszik a hatékony tanulásra.<br>
+    - felelősséget vállal a mugli nép felemelésére. Törekszik a hatékony tanulásra.<br>
 
 ### A tárgy részletes tematikája
 
@@ -52,5 +52,5 @@ Egyéni konzultációra a charity.burbage@nemz.unirox.en email-címen van lehet�
    ![Placeholder image](https://i.ytimg.com/vi/Sbj8hmsbQsI/hqdefault.jpg "Placeholder image")
      
      
-##### I deadass don't know anything about Harry Potter [for a good time click here](https://isitchristmas.com "Karácsony októberben smh")
+##### I deadass don't know anything about Harry Potter [for a good time click here :tongue: :yum:](https://isitchristmas.com "Karácsony októberben smh")
 ---
