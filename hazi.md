@@ -14,13 +14,13 @@ A hallgató a kurzus elvégzése során megismerkedik a mugliklapfogalmaival, ar
 ### Kompetenciák
 
 1. tudása<br>
-    -Ismeri a munglik alapvető anatómiáját, fizikai szükségleteit, tisztában van a mugli-nemzetiség helyzetével<br>
+    - Ismeri a munglik alapvető anatómiáját, fizikai szükségleteit, tisztában van a mugli-nemzetiség helyzetével<br>
 2. képességei<br>
-    -képes a muglik elfogadására, az előzetes ismereteit használni szociológiai területeken<br>
+    - képes a muglik elfogadására, az előzetes ismereteit használni szociológiai területeken<br>
 3. attitűd<br>
-    -Nyitott a muglikkal kapcsolatios szakmai, nemzetiségi fejlődés megismerésére és befogadására. Fontosnak tartja a szakmai eredmények közvetítését szakmai és nem szakmai körök számára. Törekszik a folyamatos szim- és empátiára. <br>
+    - Nyitott a muglikkal kapcsolatios szakmai, nemzetiségi fejlődés megismerésére és befogadására. Fontosnak tartja a szakmai eredmények közvetítését szakmai és nem szakmai körök számára. Törekszik a folyamatos szim- és empátiára. <br>
 4. autonómia<br>
-    -felelősséget vállal a mugli nép felemelésére. Törekszik a hatékony tanulásra.<br>
+    - Felelősséget vállal a mugli nép felemelésére. Törekszik a hatékony tanulásra.<br>
 
 ### A tárgy részletes tematikája
 
