@@ -1,7 +1,12 @@
-# Sample code snippet for simple page
-# Always replace the spaces in your permalink with dash (-) otherwise your website will break!
+# Mugliismeret
 ---
-title: fill in your own title description
-permalink: /fill-in-your-own-title-description/
-breadcrumb: Fill in your own title description
+**Tárgykód**: *RFBPM0101-1034*<br>
+**Kredit**: *6*<br>
+**Féléves óraszám**: *10+0+0*<br>
+**Tárgy típusa**: *Kötelező*<br>
+**Előfeltételek**: *-*<br>
+**Követelmény**: *Kollokvium*<br>  
+
+#### Leírás
+
 ---
